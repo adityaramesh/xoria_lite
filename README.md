@@ -8,7 +8,9 @@
 # Overview
 
 `xoria_lite` is a version of the `xoria256` Vim color scheme that has been
-modified in order to make the background color lighter.
+modified in order to make the background color lighter. If you use iTerm2 and
+want your shell to have the same color scheme, use the color palette files in
+the `iterm2` directory.
 
 `xoria256`                        | `xoria_lite`
 :--------------------------------:|:-----------------------------------:
